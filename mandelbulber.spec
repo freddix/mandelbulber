@@ -1,11 +1,11 @@
 Summary:	3D fractal generator
 Name:		mandelbulber
-Version:	1.16
+Version:	1.17
 Release:	1
 License:	GPL v3
 Group:		X11/Applications
 Source0:	http://mandelbulber.googlecode.com/files/%{name}%{version}.orig.tar.gz
-# Source0-md5:	4462073cf4bb62a885580a23fcd2c686
+# Source0-md5:	2d2b216ea6e72d2fd21d9de860647af8
 BuildRequires:	gtk+-devel
 BuildRequires:	libjpeg-devel
 BuildRequires:	libpng-devel
